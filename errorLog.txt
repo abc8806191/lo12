@@ -1,0 +1,108 @@
+
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'relatedMessage'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] name 'ban' is not defined
+[<module 'time' (built-in)>] name 'ban' is not defined
+[<module 'time' (built-in)>] name 'ban' is not defined
+[<module 'time' (built-in)>] name 'ban' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] name 'owners' is not defined
+[<module 'time' (built-in)>] name 'owners' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'relatedMessage'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'relatedMessage'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'βοτ'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'βοτ'
+[<module 'time' (built-in)>] name 'owners' is not defined
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] 'JoinGroup'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'βοτ'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] name 'ban' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'JoinGroup'

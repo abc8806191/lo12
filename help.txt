@@ -1,0 +1,57 @@
+—💎|Yuan βộṱ指令表|💎—
+|「help」   (普通) 
+—💎|Yuan βộṱ遊戲區|💎—
+|「rlb」拉霸一次                  
+|「rls」本日運勢                   
+—💎|Yuan βộṱ 普通|💎—
+|「sp」 速度測試
+|「speed」速度測試
+|「/sp」速度測試(多)
+|「set」確定開啟項目
+|「about」半垢簡介
+|「rs」重啟半垢
+|「bye」退出群組
+|「rt」運行時間
+—💎|Yuan βộṱ 群組|💎—
+|「say」發送文字
+|「tagall」群組全標
+|「fk @」踢人
+|「logout」登出功能
+|「ginfo」群組資料
+—💎|Yuan βộṱ  殘廢|💎—
+|「mc:mid」mid丟出友資
+|「vk:mid」mid消除紀錄
+|「inv:mid」mid進行邀請
+|「ce:文字」文字創建貼文
+|「pn:文字」使用文字改名
+|「cb:」更改個簽(八千字)
+══[其餘開關  功能]═══
+|「rt on/off」偵測更新
+|「rd on/off」自動已讀
+|「red on/off」開關副讀
+|「ad on/off」新增好友
+══[進退開關  功能]═══
+|「aj on/off」自動進群
+|「qj on/off」網址進群
+|「al on/off」防邀副本
+══[通知開關  功能]═══
+|「kc on/off」踢人顯示
+|「sj on/off」入群通知
+|「sl on/off」退群通知
+|「m on/off」標住通知
+══[保護開關  功能]═══
+|「pro on/off」進群保護
+|「op on/off」踢人保護
+|「ip on/off」邀請保護
+|「qp on/off」網址保護
+—💎|Yuan βộṱ 研究室|💎—
+|「ri」來回機票
+|「mymid」我的MID
+|「mid @」@的MID
+|「info @」@的資訊
+|「add @」增加權限
+|「del @」刪除權限
+—✪〘 Yuan βộṱ 感謝使用 〙✪—
+
+
+
