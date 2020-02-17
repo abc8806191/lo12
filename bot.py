@@ -13,7 +13,7 @@ botStart = time.time()
 ####################################################
 
 ####################################################
-cl = LINE("EOvTM5tpUWnzZBuN8zqd.EklO8/ZlWzg2RKlGBOpPdq.xoXF+AKjpzi0LKKU4oHbLhJR7rBAx8LWMy4m7mjXa/k")
+cl = LINE("EOWVWmiBNTgKvmOyLcn2.6bQogkAc69L8tqi6gReOiG.gjnvZBpGehn4GKGyFcs0f+eOxsjB/rtliBhJTtx4T9E=")
 ####################################################
 clMID = cl.profile.mid
 profile = cl.getProfile()
@@ -312,7 +312,7 @@ def lineBot(op):
                     elen = str(len(text) + len(mention) - 1)
                     arrData = {'S':slen, 'E':elen, 'M':op.param2}
                     arr.append(arrData)
-                    text += mention + "歡迎加入1️⃣0️⃣元群組🎉🎉\n\n🔸進群請先看記事本重要事宜\n\n🔸版媽平常白天在忙碌，期間如有問題，請私訊小幫手即可，沒有馬上回復代表在忙碌，感謝！\n\n🔸非必要版媽與小幫手不會介入各位交易.若有跑單.棄單.喊了不要等行為.可私訊介入協商.\n\n🔸請勿更改群組內的設定，如被機器人踢出，是不給予加回來的唷，請多多配合唷❤️\n\n本群版媽為 👉 嬣🍋\n\n小幫手為 👉◡̈  馥、魚🐟、Yu🧸".format(str(group.name))
+                    text += mention + "\n\n歡迎加入Juanのshop👏👏\n進來的朋友請先看相簿須知\n請幫我認真看一下\n不會花你太多時間🙏\n闆娘不定時會上架商品\n怕吵的朋友記得幫我關閉提醒\n🌟🌟🌟🌟🌟🌟🌟🌟\n有事歡迎找闆娘\n《♥𝓙𝓲_𝓙𝓾𝓪𝓷♥》".format(str(group.name))
                     cl.sendMessage(op.param1,text, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
                 except Exception as error:
                     print(error)
